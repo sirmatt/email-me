@@ -31,7 +31,7 @@ gem 'jbuilder', '~> 2.5'
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
-gem 'foundation-rails', '~> 6.2', '>= 6.2.3.0'
+gem 'foundation-rails', '~> 5.5'
 gem 'gibbon', '~> 2.2', '>= 2.2.4'
 gem 'high_voltage', '~> 3.0'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
