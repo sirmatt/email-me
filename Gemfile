@@ -36,6 +36,7 @@ gem 'gibbon', '~> 2.2', '>= 2.2.4'
 gem 'high_voltage', '~> 3.0'
 gem 'simple_form', '~> 3.2', '>= 3.2.1'
 gem 'rails_layout', '~> 1.0', '>= 1.0.29'
+gem 'rename', '~> 1.0', '>= 1.0.2'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
