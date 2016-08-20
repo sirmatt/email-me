@@ -1,24 +1,24 @@
-# README
+# Email Me
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+<em>Rails app that allows visitors on my site to send me transactional emails from their browser.</em>
 
-Things you may want to cover:
+## LIVE: https://email-matt.herokuapp.com/
 
-* Ruby version
+### Email service:
+* SendGrid
 
-* System dependencies
+### Gems:
+* Foundation Rails
+* Simple Form
+* Rails Layout
 
-* Configuration
+### TODOs:
+* Mailing List functionality w/ MailChimp
 
-* Database creation
+## Landing page
+![Imgur](http://i.imgur.com/MWpusfP.png?1)
 
-* Database initialization
 
-* How to run the test suite
+## Form
+![Imgur](http://i.imgur.com/9h1C5Bq.png?1)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
